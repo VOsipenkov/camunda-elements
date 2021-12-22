@@ -4,4 +4,3 @@ camunda.bpm:
   admin-user:
     id: demo
     password: demo
-  process-engine-name: Vlad
